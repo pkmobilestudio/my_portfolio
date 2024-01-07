@@ -12,8 +12,8 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="#home" className="logo">
-        <span>www.prabhakar-portfolio</span>
-        <span>.vercel.app</span>
+        <span>www.prabhakar</span>
+        <span>kumar.in</span>
       </a>
       <div>
         <p>
