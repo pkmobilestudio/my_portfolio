@@ -19,10 +19,10 @@ export function Hero() {
           <h1>Prabhakar kumar</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>Full Stack Developer</h3>
+          <h3>Software Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">4 Years of Experience</p>
+          <p className="small-resume">1.4 Years of Experience</p>
         </ScrollAnimation>
 
 
@@ -34,28 +34,28 @@ export function Hero() {
         
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
       <div className="social-media"><a
-        href="https://www.linkedin.com/in/codevinayak"
+        href="https://www.linkedin.com/in/prabhakar-kumar-5659361a8/"
         target="_blank"
         rel="noreferrer"
       >
         <img src={linkedin} alt="Linkedin" />
       </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/pkmobilestudio"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
+          href="https://api.whatsapp.com/send/?phone=%2B919695922146&text=Hello+Prabhakar"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/Park_07"
           target="_blank"
           rel="noreferrer"
         >

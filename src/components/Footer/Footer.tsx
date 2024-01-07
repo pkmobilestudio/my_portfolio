@@ -11,9 +11,9 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://Prabhakar.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+      <a href="#home" className="logo">
+        <span>www.prabhakar-portfolio</span>
+        <span>.vercel.app</span>
       </a>
       <div>
         <p>
@@ -24,35 +24,35 @@ export function Footer() {
 
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/codevinayak"
+          href="https://www.linkedin.com/in/prabhakar-kumar-5659361a8/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/pkmobilestudio"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
+          href="https://api.whatsapp.com/send/?phone=%2B919695922146&text=Hello+Prabhakar"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/Park_07"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
         </a>
         <a
-          href="https://www.instagram.com/Prabhakar.in"
+          href="https://www.instagram.com/incredible_p.k"
           target="_blank"
           rel="noreferrer"
         >
