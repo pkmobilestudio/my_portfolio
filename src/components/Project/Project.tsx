@@ -20,7 +20,7 @@ tech:["Shopify"]
   {
     link:"https://kool4skool.com/",
     name:"kool4skool.com",
-description:" It IsStationery store, range of goods counts more than 5000 world famous brands. It means that you can easily choose the best office supplies and other related goods at our store without any problems.",
+description:" It Is a Stationery store, range of goods counts more than 5000 world famous brands. It means that you can easily choose the best office supplies and other related goods at our store without any problems.",
 tech:["Shopify"]
   },
   {
@@ -48,7 +48,7 @@ tech:["Shopify"]
 export function Project() {
   return (
     <Container id="project">
-      <h2>My Top Projects</h2>
+      <h2>My Projects</h2>
       <div className="projects">
 
   
