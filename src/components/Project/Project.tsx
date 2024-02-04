@@ -6,15 +6,39 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const projects:any=[
   {
-    link:"https://kameleon.co.in/",
-    name:"Kameleon - Cloth Selling Site",
-description:" This website sells men's cloth products and helps men look their best. It is easy to find what you need, whether it's cloth shirts, pants, or accessories. The site is useful for men who want to look their best and need some help.",
+    link:"https://www.andbloss.com/",
+    name:"&Bloss - A Coffee Bean site",
+description:" &Bloss is your go-to destination for a seamless coffee journey, offering both personalized subscriptions and wholesale options.",
 tech:["Shopify"]
   },
   {
-    link:"https://kameleon.co.in/",
-    name:"Kameleon - Cloth Selling Site",
-description:" This website sells men's cloth products and helps men look their best. It is easy to find what you need, whether it's cloth shirts, pants, or accessories. The site is useful for men who want to look their best and need some help.",
+    link:"https://hawkeyeelectronics.com/",
+    name:"hawkeyeelectronics.com",
+description:" HawkEye® Electronics has been dedicated to designing, developing, and engineering the most adaptable, versatile, and user-friendly sonar products available.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://kool4skool.com/",
+    name:"kool4skool.com",
+description:" It IsStationery store, range of goods counts more than 5000 world famous brands. It means that you can easily choose the best office supplies and other related goods at our store without any problems.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://sassyn.shop/",
+    name:"sassyn.shop",
+description:" This website sells women's cloth products and helps women look their best. It is easy to find what you need, whether it's cloth Tops, bottoms,Dressess and Jumpsuits or accessories. The site is useful for women who want to look their best and need some help.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://www.sentinel-laboratories.com/",
+    name:"sentinel-laboratories.com",
+description:"Sentinel Laboratories provides specialist technical expertise on both chemical and health and safety issues, having directors who are a member of The Royal Society of Chemistry and The Institute of Safety and Health.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://southbeachfashion9thst.com/",
+    name:"The South Beach Perfume Shop",
+description:" Experience the luxury with The South Beach Perfume Shop and find your signature scent.The South Beach Perfume Shop offers an exceptional collection of authentic fragrances for men and women.",
 tech:["Shopify"]
   }
 ]
@@ -24,7 +48,7 @@ tech:["Shopify"]
 export function Project() {
   return (
     <Container id="project">
-      <h2>My Projects</h2>
+      <h2>My Top Projects</h2>
       <div className="projects">
 
   

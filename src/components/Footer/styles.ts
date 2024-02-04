@@ -11,7 +11,7 @@ export const Container = styled.footer`
 
 
   .logo{
-    font-size: 2.8rem;
+    font-size: 1.8rem;
   }
 
   p{

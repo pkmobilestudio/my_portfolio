@@ -12,8 +12,8 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="#home" className="logo">
-        <span>www.prabhakar</span>
-        <span>kumar.in</span>
+        <span>© 2024 prabhakar kumar. </span>
+        <span>All rights reserved</span>
       </a>
       <div>
         <p>
