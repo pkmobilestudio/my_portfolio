@@ -6,6 +6,12 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const projects:any=[
   {
+    link:"https://meloqdevices.com/",
+    name:"meloqdevices.com",
+description:"Fulfilling the needs of healthcare and sports professionals, striving to produce high quality products that help them save time while objectifying their work.",
+tech:["Shopify"]
+  },
+  {
     link:"https://www.andbloss.com/",
     name:"&Bloss - A Coffee Bean site",
 description:" &Bloss is your go-to destination for a seamless coffee journey, offering both personalized subscriptions and wholesale options.",
@@ -48,7 +54,7 @@ tech:["Shopify"]
 export function Project() {
   return (
     <Container id="project">
-      <h2>My Projects</h2>
+      <h2>My Projects Work</h2>
       <div className="projects">
 
   
