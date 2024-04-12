@@ -12,6 +12,12 @@ description:"Fulfilling the needs of healthcare and sports professionals, strivi
 tech:["Shopify"]
   },
   {
+    link:"https://dollymamainc.com/",
+    name:"dolly mama boutique",
+description:"Dolly Mama Boutique carries a selection of home dècor, women's apparel, accessories, gifts, and high-end furniture by Uttermost. The boutique stocks a mix of products from both local Pacific Northwest designers and big-name labels including Free People, Charlie B, Testimony, PJ Harlow, Hobo Intl., and Dolly Mama's signature embellished brand Dolly Mama Designs.  ",
+tech:["Shopify"]
+  },
+  {
     link:"https://www.andbloss.com/",
     name:"&Bloss - A Coffee Bean site",
 description:" &Bloss is your go-to destination for a seamless coffee journey, offering both personalized subscriptions and wholesale options.",
@@ -45,6 +51,12 @@ tech:["Shopify"]
     link:"https://southbeachfashion9thst.com/",
     name:"The South Beach Perfume Shop",
 description:" Experience the luxury with The South Beach Perfume Shop and find your signature scent.The South Beach Perfume Shop offers an exceptional collection of authentic fragrances for men and women.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://wellseasonedtable.com/",
+    name:"Well Seasoned Table",
+description:" Well Seasoned Table creating freshly dried, organically grown seasonings from their farm. Fast forward, and ten years later, the dream has grown. They are now work with dozens of farmers and producers right here in the Appalachian Mountains, and across the country to source the freshest ingredients with as little waste and as small of a carbon footprint as possible.",
 tech:["Shopify"]
   }
 ]
