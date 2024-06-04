@@ -6,6 +6,12 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const projects:any=[
   {
+    link:"https://blacktulipstudio.com/",
+    name:"blacktulipstudio.com",
+description:"At Black Tulip, our premium quality products are crafted with natural materials using ethical practices, reflecting our commitment to sustainability. Embrace our ageless luxury pieces that are designed to stand the test of time.",
+tech:["Shopify"]
+  },
+  {
     link:"https://meloqdevices.com/",
     name:"meloqdevices.com",
 description:"Fulfilling the needs of healthcare and sports professionals, striving to produce high quality products that help them save time while objectifying their work.",
