@@ -6,21 +6,9 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const projects:any=[
   {
-    link:"https://blacktulipstudio.com/",
-    name:"blacktulipstudio.com",
-description:"At Black Tulip, our premium quality products are crafted with natural materials using ethical practices, reflecting our commitment to sustainability. Embrace our ageless luxury pieces that are designed to stand the test of time.",
-tech:["Shopify"]
-  },
-  {
     link:"https://meloqdevices.com/",
     name:"meloqdevices.com",
 description:"Fulfilling the needs of healthcare and sports professionals, striving to produce high quality products that help them save time while objectifying their work.",
-tech:["Shopify"]
-  },
-  {
-    link:"https://dollymamainc.com/",
-    name:"dolly mama boutique",
-description:"Dolly Mama Boutique carries a selection of home dècor, women's apparel, accessories, gifts, and high-end furniture by Uttermost. The boutique stocks a mix of products from both local Pacific Northwest designers and big-name labels including Free People, Charlie B, Testimony, PJ Harlow, Hobo Intl., and Dolly Mama's signature embellished brand Dolly Mama Designs.  ",
 tech:["Shopify"]
   },
   {
@@ -30,21 +18,9 @@ description:" &Bloss is your go-to destination for a seamless coffee journey, of
 tech:["Shopify"]
   },
   {
-    link:"https://hawkeyeelectronics.com/",
-    name:"hawkeyeelectronics.com",
-description:" HawkEye® Electronics has been dedicated to designing, developing, and engineering the most adaptable, versatile, and user-friendly sonar products available.",
-tech:["Shopify"]
-  },
-  {
     link:"https://kool4skool.com/",
     name:"kool4skool.com",
 description:" It Is a Stationery store, range of goods counts more than 5000 world famous brands. It means that you can easily choose the best office supplies and other related goods at our store without any problems.",
-tech:["Shopify"]
-  },
-  {
-    link:"https://sassyn.shop/",
-    name:"sassyn.shop",
-description:" This website sells women's cloth products and helps women look their best. It is easy to find what you need, whether it's cloth Tops, bottoms,Dressess and Jumpsuits or accessories. The site is useful for women who want to look their best and need some help.",
 tech:["Shopify"]
   },
   {
@@ -54,9 +30,33 @@ description:"Sentinel Laboratories provides specialist technical expertise on bo
 tech:["Shopify"]
   },
   {
+    link:"https://hawkeyeelectronics.com/",
+    name:"hawkeyeelectronics.com",
+description:" HawkEye® Electronics has been dedicated to designing, developing, and engineering the most adaptable, versatile, and user-friendly sonar products available.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://sassyn.shop/",
+    name:"sassyn.shop",
+description:" This website sells women's cloth products and helps women look their best. It is easy to find what you need, whether it's cloth Tops, bottoms,Dressess and Jumpsuits or accessories. The site is useful for women who want to look their best and need some help.",
+tech:["Shopify"]
+  },
+  {
     link:"https://southbeachfashion9thst.com/",
     name:"The South Beach Perfume Shop",
 description:" Experience the luxury with The South Beach Perfume Shop and find your signature scent.The South Beach Perfume Shop offers an exceptional collection of authentic fragrances for men and women.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://blacktulipstudio.com/",
+    name:"blacktulipstudio.com",
+description:"At Black Tulip, our premium quality products are crafted with natural materials using ethical practices, reflecting our commitment to sustainability. Embrace our ageless luxury pieces that are designed to stand the test of time.",
+tech:["Shopify"]
+  },
+  {
+    link:"https://dollymamainc.com/",
+    name:"dolly mama boutique",
+description:"Dolly Mama Boutique carries a selection of home dècor, women's apparel, accessories, gifts, and high-end furniture by Uttermost. The boutique stocks a mix of products from both local Pacific Northwest designers and big-name labels including Free People, Charlie B, Testimony, PJ Harlow, Hobo Intl., and Dolly Mama's signature embellished brand Dolly Mama Designs.  ",
 tech:["Shopify"]
   },
   {
