@@ -5,10 +5,10 @@ import externalLink from "../../assets/external-link.svg"
 import ScrollAnimation from "react-animate-on-scroll";
 
 const projects:any=[
-  {
-    link:"https://meloqdevices.com/",
-    name:"meloqdevices.com",
-description:"Fulfilling the needs of healthcare and sports professionals, striving to produce high quality products that help them save time while objectifying their work.",
+   {
+    link:"https://blacktulipstudio.com/",
+    name:"blacktulipstudio.com",
+description:"At Black Tulip, our premium quality products are crafted with natural materials using ethical practices, reflecting our commitment to sustainability. Embrace our ageless luxury pieces that are designed to stand the test of time.",
 tech:["Shopify"]
   },
   {
@@ -45,12 +45,6 @@ tech:["Shopify"]
     link:"https://southbeachfashion9thst.com/",
     name:"The South Beach Perfume Shop",
 description:" Experience the luxury with The South Beach Perfume Shop and find your signature scent.The South Beach Perfume Shop offers an exceptional collection of authentic fragrances for men and women.",
-tech:["Shopify"]
-  },
-  {
-    link:"https://blacktulipstudio.com/",
-    name:"blacktulipstudio.com",
-description:"At Black Tulip, our premium quality products are crafted with natural materials using ethical practices, reflecting our commitment to sustainability. Embrace our ageless luxury pieces that are designed to stand the test of time.",
 tech:["Shopify"]
   },
   {
