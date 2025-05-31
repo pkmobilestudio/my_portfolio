@@ -12,7 +12,7 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="#home" className="logo">
-        <span>© 2024 prabhakar kumar. </span>
+        <span>© 2025 prabhakar kumar. </span>
         <span>All rights reserved</span>
       </a>
       <div>
