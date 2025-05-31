@@ -12,6 +12,12 @@ description:"At Black Tulip, our premium quality products are crafted with natur
 tech:["Shopify"]
   },
   {
+    link:"https://www.baladifoodstuff.com/",
+    name:"Baladifoodstuff",
+description:" Baladi Foodstuff is a premium grocery and food product brand based in the UAE, offering a wide range of fresh, frozen, and packaged items. I designed and developed their Shopify website to provide a clean, user-friendly shopping experience tailored for both B2B and B2C customers.",
+tech:["Shopify"]
+  },
+  {
     link:"https://www.andbloss.com/",
     name:"&Bloss - A Coffee Bean site",
 description:" &Bloss is your go-to destination for a seamless coffee journey, offering both personalized subscriptions and wholesale options.",
@@ -33,12 +39,6 @@ tech:["Shopify"]
     link:"https://hawkeyeelectronics.com/",
     name:"hawkeyeelectronics.com",
 description:" HawkEye® Electronics has been dedicated to designing, developing, and engineering the most adaptable, versatile, and user-friendly sonar products available.",
-tech:["Shopify"]
-  },
-  {
-    link:"https://sassyn.shop/",
-    name:"sassyn.shop",
-description:" This website sells women's cloth products and helps women look their best. It is easy to find what you need, whether it's cloth Tops, bottoms,Dressess and Jumpsuits or accessories. The site is useful for women who want to look their best and need some help.",
 tech:["Shopify"]
   },
   {
